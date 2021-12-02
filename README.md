@@ -1,1 +1,2 @@
-# Infine-Game
+# flappy-bird
+ https://gayathrieshwar.github.io/Tisha-Infinite-Runner-Game/
