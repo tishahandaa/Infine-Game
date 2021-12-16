@@ -94,9 +94,8 @@ function spawncoins(){
         coins.lifetime = (450/4)
         coins.depth = bird.depth
         coinsGroup.add(coins)
-    
+   
     }
-
 }
 
 function reset(){
